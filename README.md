@@ -26,9 +26,9 @@
 
 ### 👨‍💻 About Me
 
-* 🚀 Building **scalable web and mobile applications**, bridging robust backend logic with pixel-perfect UIs.
-* 📱 Passionate about **offline-first architectures** (e.g., *GoCoink*) and optimizing mobile performance.
-* ⚙️ Integrating **AI workflows** and cloud infrastructure (AWS, Linux, Docker) to streamline development and reduce technical debt.
+* 🚀 **Software Development & Problem Solving:** I am a Systems Engineer focused on resolving complex technical challenges. I specialize in delivering scalable web and mobile applications that strictly fulfill business requirements and user needs.
+* 💡 **Technological Solutions:** My goal is to add tangible value to digital products and corporate projects by designing robust architectures, optimizing system performance, and ensuring seamless user experiences.
+* ⚙️ **AI-Driven Workflow:** In today's highly competitive tech landscape, I leverage Artificial Intelligence as a powerful development ally. I integrate AI tools into my daily routine to automate repetitive tasks, reduce technical debt, and accelerate the delivery of high-quality code.
 
 <br>
 
@@ -45,7 +45,6 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart" />
   <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white" alt="Three.js" />
-  <br><br>
   <!-- Backend & Databases -->
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express" />
@@ -57,7 +56,6 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase" />
-  <br><br>
   <!-- Cloud, DevOps & Tools -->
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white" alt="Docker" />
