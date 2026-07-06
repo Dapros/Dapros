@@ -1,49 +1,58 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<h2 align="start">
-  Welcome to Code White's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
-<p align="start">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=3FE2DD&width=435&lines=Hello%2C+I'm+Dapros.;Systems+engineer.;Web+and+mobile+app+developer.;AI+developer.;Video+game+developer." alt="Typing SVG" /></a>
-</p>
+<h1 align="center">
+  Hi there, I'm Sergio Romero (Dapros) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+</h1>
 
-<a href="https://www.linkedin.com/in/sergio-romero-dapros/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=2FB0AC&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://dapros.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/badge/website-3FE2DD.svg?style=for-the-badge&logoColor=white" 
-       alt="website" style="margin-bottom: 5px;" />
-</a>
-
----
-
-
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h3 style="display: inline-block">Technologies and Tools That I Know 🛠</h3></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nextjs,nodejs,tailwind,dart,flutter,postman,express,firebase,mongodb,postgres,mysql,git,github,py,java,lua,robloxstudio,md,discord,blender,vscode,figma,ai,ps" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=3FE2DD&center=true&vCenter=true&width=600&lines=Systems+Engineer.;Full-Stack+Developer.;Mobile+%26+Frontend+Specialist.;Tech+Architecture+Enthusiast." alt="Typing SVG" />
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  <a href="https://www.linkedin.com/in/sergio-rom/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://dapros.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-3FE2DD?style=for-the-badge&logo=Web&logoColor=black" alt="Portfolio" />
+  </a>
+  <a href="mailto:sergiodrp70@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-<!--
-**Dapros/Dapros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🚀 I specialize in building **scalable web and mobile applications**, bridging the gap between robust backend logic and pixel-perfect UIs.
+* 📱 Passionate about **offline-first architectures** (like my React Native + SQLite app *GoCoink*) and mobile performance optimization.
+* ⚙️ I actively integrate **AI workflows** and cloud infrastructure (AWS, Ubuntu, Docker) into my daily development lifecycle to reduce technical debt.
+* 🎮 Beyond web/mobile, I enjoy tackling complex rendering logic, such as Gerstner wave mathematics and Level of Detail (LOD) systems in Roblox/Luau.
+* 📍 Based in Barranquilla, Colombia.
+
+<br>
+
+### 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,astro,flutter,dart,threejs&theme=dark" />
+    <br><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,php,postgres,sqlite,aws,docker,ubuntu,git&theme=dark" />
+    <br><br>
+    <img src="https://skillicons.dev/icons?i=figma,blender,lua,robloxstudio&theme=dark" />
+  </a>
+</p>
+
+<br>
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dapros&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=A1B2C1&icon_color=3FE2DD&title_color=3FE2DD" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dapros&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=A1B2C1&title_color=3FE2DD" height="170" alt="Top Languages" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
