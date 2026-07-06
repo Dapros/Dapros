@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <h1 align="center">
-  Hi there, I'm Sergio Romero (Dapros) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+  Hi there, I'm Sergio Romero (Dapros) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> <img src="https://cultofthepartyparrot.com/flags/hd/colombiaparrot.gif" width="30">
 </h1>
 
 <p align="center">
@@ -26,24 +26,45 @@
 
 ### 👨‍💻 About Me
 
-* 🚀 I specialize in building **scalable web and mobile applications**, bridging the gap between robust backend logic and pixel-perfect UIs.
-* 📱 Passionate about **offline-first architectures** (like my React Native + SQLite app *GoCoink*) and mobile performance optimization.
-* ⚙️ I actively integrate **AI workflows** and cloud infrastructure (AWS, Ubuntu, Docker) into my daily development lifecycle to reduce technical debt.
-* 🎮 Beyond web/mobile, I enjoy tackling complex rendering logic, such as Gerstner wave mathematics and Level of Detail (LOD) systems in Roblox/Luau.
-* 📍 Based in Barranquilla, Colombia.
+* 🚀 Building **scalable web and mobile applications**, bridging robust backend logic with pixel-perfect UIs.
+* 📱 Passionate about **offline-first architectures** (e.g., *GoCoink*) and optimizing mobile performance.
+* ⚙️ Integrating **AI workflows** and cloud infrastructure (AWS, Linux, Docker) to streamline development and reduce technical debt.
 
 <br>
 
 ### 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,astro,flutter,dart,threejs&theme=dark" />
-    <br><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,php,postgres,sqlite,mongodb,firebase,supabase,aws,docker,ubuntu,git&theme=dark" />
-    <br><br>
-    <img src="https://skillicons.dev/icons?i=figma,blender,lua,robloxstudio&theme=dark" />
-  </a>
+  <!-- Frontend & Mobile -->
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/Astro-FF5D01?style=flat&logo=astro&logoColor=white" alt="Astro" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white" alt="Three.js" />
+  <br><br>
+  <!-- Backend & Databases -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase" />
+  <br><br>
+  <!-- Cloud, DevOps & Tools -->
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white" alt="Blender" />
 </p>
 
 <br>
