@@ -40,7 +40,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,astro,flutter,dart,threejs&theme=dark" />
     <br><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,php,postgres,sqlite,aws,docker,ubuntu,git&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,php,postgres,sqlite,mongodb,firebase,supabase,aws,docker,ubuntu,git&theme=dark" />
     <br><br>
     <img src="https://skillicons.dev/icons?i=figma,blender,lua,robloxstudio&theme=dark" />
   </a>
